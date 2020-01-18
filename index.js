@@ -14,10 +14,10 @@ function whisper(string) {
       var response
       if (string === "I love you Grandma."){
         response === "I love you, too."
-      } else if (string.toLowerCase === string) {
+      } else if (string.toLowerCase() === string) {
         response = "I can\'t hear you!"
-      } else if (string.toUpperCase === string) {
-        
+      } else if (string.toUpperCase() === string) {
+        response
       }
     
     
