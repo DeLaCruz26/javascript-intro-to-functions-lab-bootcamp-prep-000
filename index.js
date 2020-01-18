@@ -19,6 +19,8 @@ function whisper(string) {
       } else if (string.toUpperCase() === string) {
         response = "YES INDEED!"
       }
+      return respone 
+  }
     
     
     
