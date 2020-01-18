@@ -17,7 +17,7 @@ function whisper(string) {
       } else if (string.toLowerCase() === string) {
         response = "I can\'t hear you!"
       } else if (string.toUpperCase() === string) {
-        response
+        response = "YES INDEED!"
       }
     
     
