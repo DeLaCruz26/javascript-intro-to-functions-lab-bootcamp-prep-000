@@ -14,7 +14,7 @@ function whisper(string) {
       var response
       if (string === "I love you Grandma."){
         response === "I love you, too."
-      } else if  
+      } else if () 
     
     
     
