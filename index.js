@@ -13,7 +13,7 @@ function whisper(string) {
   function sayHiToGrandma(string) {
     if (logWhisper === string.toLowerCase) {
       var response
-      i
+      if (string === "I love you Grandma.")
     
     
     
