@@ -12,7 +12,9 @@ function whisper(string) {
   }
   function sayHiToGrandma(string) {
       var response
-      if (string === "I love you Grandma.")
+      if (string === "I love you Grandma."){
+        
+      }
     
     
     
